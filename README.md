@@ -12,7 +12,7 @@ Download or clone this repository. The 17 folders containing a `SKILL.md` make u
 
 | Agent | Setup |
 |---|---|
-| ChatGPT | If your workspace offers Skills, open **Plugins → Skills → Create → Upload from your computer**. Import the skills individually, starting with `ask-sepp`. If Skills is unavailable, use the manual method below. [ChatGPT Skills](https://help.openai.com/en/articles/20001066-skills-in-chatgpt) |
+| ChatGPT | If your workspace offers Skills, open **Plugins → Skills → Create → Upload from your computer**. Download the [ChatGPT upload archives](downloads/chatgpt/) and upload one ZIP per skill. Start with [ask-sepp.zip](downloads/chatgpt/ask-sepp.zip), then add the specialists you need. These packages cite articles by title and omit external URLs. If an earlier upload was quarantined, retry with the corresponding ZIP from this directory. If Skills is unavailable, use the manual method below. [ChatGPT Skills](https://help.openai.com/en/articles/20001066-skills-in-chatgpt) |
 | Codex | Copy the 17 folders into your project’s `.agents/skills/` so the router is at `.agents/skills/ask-sepp/SKILL.md`. Open the project in Codex and invoke `$ask-sepp`. [Codex skills](https://developers.openai.com/codex/skills) |
 | Cursor | Copy the folders into `.cursor/skills/`, or use the same `.agents/skills/` installation as Codex. Open the project in Cursor and ask Agent to use Ask Sepp. [Cursor skills](https://cursor.com/help/customization/skills) |
 | Claude Code | Copy the folders into your project’s `.claude/skills/`. Start Claude Code in that project and enter `/ask-sepp` followed by your question. [Claude Code skills](https://code.claude.com/docs/en/skills) |
