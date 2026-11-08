@@ -1,0 +1,14 @@
+interface:
+  display_name: Ask Sepp
+  short_description: Choose the next job for a woodworking operation
+  default_prompt: Use $ask-sepp to turn our shop-floor problem into an objective and
+    choose the right skill.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

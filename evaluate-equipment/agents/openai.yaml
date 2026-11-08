@@ -1,0 +1,13 @@
+interface:
+  display_name: Justify equipment or automation
+  short_description: Justify equipment or automation
+  default_prompt: Use $sepp-evaluate-equipment to help me justify equipment or automation.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

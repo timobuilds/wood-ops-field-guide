@@ -1,0 +1,14 @@
+interface:
+  display_name: Compare performance with peer plants
+  short_description: Compare performance with peer plants
+  default_prompt: Use $sepp-benchmark-plants to help me compare performance with peer
+    plants.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

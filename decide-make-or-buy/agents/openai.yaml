@@ -1,0 +1,13 @@
+interface:
+  display_name: Decide what to make or buy
+  short_description: Decide what to make or buy
+  default_prompt: Use $sepp-decide-make-or-buy to help me decide what to make or buy.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

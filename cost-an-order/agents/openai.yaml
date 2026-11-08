@@ -1,0 +1,14 @@
+interface:
+  display_name: Estimate the cost and margin of a job
+  short_description: Estimate the cost and margin of a job
+  default_prompt: Use $sepp-cost-an-order to help me estimate the cost and margin
+    of a job.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
