@@ -1,7 +1,7 @@
 interface:
   display_name: Schedule around the constraint
   short_description: Schedule around the constraint
-  default_prompt: Use $sepp-schedule-constraint to help me schedule around the constraint.
+  default_prompt: Use $schedule-constraint to help me schedule around the constraint.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:

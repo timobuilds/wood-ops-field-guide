@@ -1,7 +1,7 @@
 interface:
   display_name: Choose an operating priority
   short_description: Choose an operating priority
-  default_prompt: Use $sepp-set-direction to help me choose an operating priority.
+  default_prompt: Use $set-direction to help me choose an operating priority.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:

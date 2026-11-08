@@ -1,7 +1,7 @@
 interface:
   display_name: Choose a plant layout
   short_description: Help a team choose a plant layout
-  default_prompt: Use $sepp-design-layout to help me choose a plant layout.
+  default_prompt: Use $design-layout to help me choose a plant layout.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:

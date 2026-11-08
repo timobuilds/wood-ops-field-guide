@@ -1,7 +1,7 @@
 interface:
   display_name: Turn custom orders into reliable work instructions
   short_description: Turn custom orders into reliable work instructions
-  default_prompt: Use $sepp-simplify-order-engineering to help me turn custom orders
+  default_prompt: Use $simplify-order-engineering to help me turn custom orders
     into reliable work instructions.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg

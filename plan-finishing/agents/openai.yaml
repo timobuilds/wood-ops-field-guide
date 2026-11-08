@@ -1,7 +1,7 @@
 interface:
   display_name: Specify a repeatable finishing process
   short_description: Specify a repeatable finishing process
-  default_prompt: Use $sepp-plan-finishing to help me specify a repeatable finishing
+  default_prompt: Use $plan-finishing to help me specify a repeatable finishing
     process.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg

@@ -1,5 +1,5 @@
 ---
-name: sepp-benchmark-plants
+name: benchmark-plants
 description: "A team needs to know how its performance compares with other manufacturers or wants to organize a peer benchmark. Use to compare performance with peer plants."
 ---
 
@@ -11,19 +11,19 @@ description: "A team needs to know how its performance compares with other manuf
 
 **Deliverable.** A comparable peer set, metric definition and decision about the most important gap.
 
-Turn the request into a draft objective in the user’s terms: “When [circumstance], help [person] achieve [observable progress] so [customer or business outcome].” Add a baseline, desired result, owner and review point if known. Mark proposed targets as proposals. When no baseline exists, specify the smallest observation needed to establish one. Continue with the evidence available.
+Name who needs progress, in what circumstance, and how they will measure it. Use the known baseline or identify the smallest observation that would establish one. Label proposed targets.
 
 ## Work through the decision
 
 1. Name the decision and peer group. Match product, volume, operating model, geography and reporting period as relevant. Document what makes each comparison credible or weak.
 
-2. Define numerator, denominator, units, inclusion rules and reporting lag before gathering figures. Seek permission and use aggregated results where confidentiality requires it. Assess reliability, independence, timeliness, cost and repeatability.
+2. Define numerator, denominator, units, inclusion rules and reporting lag before gathering figures. Seek permission and use aggregated results where confidentiality requires it. For labour productivity, put both shops’ definitions side by side. Check whether accepted output, batch size, engineering and setup hours, rework and bought-in components are counted on the same basis.
 
-3. Compare trends and ranges. Explain differences in mix and practice before inferring a gap. When reliable data are absent, propose a reciprocal plant walk or small standardized survey and name what it could establish.
+3. Choose whether to adopt the figure, compare only a matched product family or operation, or withhold a numerical target. Record the missing fact that would change that choice. Compare trends and ranges within the matched work. Explain differences in mix and practice before inferring a gap. When reliable data are absent, propose a reciprocal plant walk or small standardized survey and name what it could establish.
 
 ## Return to the user
 
-Produce the deliverable above using the user's facts. Identify the decisive unknown and how to test it. Finish with the next action, proposed owner, review point and the observation that would justify a different decision. Clearly distinguish observed results, estimates and recommendations. Cite the specific column when explaining its teaching. The JTBD and deliverable are adaptations of Sepp Gmeiner’s writing.
+Fill in the deliverable with the evidence at hand. Mark estimates and unknowns. Name the next action, its proposed owner, the review point and the finding that could change the decision. Cite the relevant column for its teaching and identify your proposed application.
 
 **Example request.** We improved labour productivity five percent. Did peers improve faster?
 

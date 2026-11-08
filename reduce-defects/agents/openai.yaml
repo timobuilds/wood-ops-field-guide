@@ -1,7 +1,7 @@
 interface:
   display_name: Prevent repeat quality losses
   short_description: Prevent repeat quality losses
-  default_prompt: Use $sepp-reduce-defects to help me prevent repeat quality losses.
+  default_prompt: Use $reduce-defects to help me prevent repeat quality losses.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:

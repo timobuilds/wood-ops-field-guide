@@ -1,5 +1,5 @@
 ---
-name: sepp-improve-material-yield
+name: improve-material-yield
 description: "Lumber waste or high material consumption threatens the cost per acceptable component. Use to recover usable material."
 ---
 
@@ -11,7 +11,7 @@ description: "Lumber waste or high material consumption threatens the cost per a
 
 **Deliverable.** A material balance and a yield trial for one product family.
 
-Turn the request into a draft objective in the user’s terms: “When [circumstance], help [person] achieve [observable progress] so [customer or business outcome].” Add a baseline, desired result, owner and review point if known. Mark proposed targets as proposals. When no baseline exists, specify the smallest observation needed to establish one. Continue with the evidence available.
+Name who needs progress, in what circumstance, and how they will measure it. Use the known baseline or identify the smallest observation that would establish one. Label proposed targets.
 
 ## Work through the decision
 
@@ -23,7 +23,7 @@ Turn the request into a draft objective in the user’s terms: “When [circumst
 
 ## Return to the user
 
-Produce the deliverable above using the user's facts. Identify the decisive unknown and how to test it. Finish with the next action, proposed owner, review point and the observation that would justify a different decision. Clearly distinguish observed results, estimates and recommendations. Cite the specific column when explaining its teaching. The JTBD and deliverable are adaptations of Sepp Gmeiner’s writing.
+Fill in the deliverable with the evidence at hand. Mark estimates and unknowns. Name the next action, its proposed owner, the review point and the finding that could change the decision. Cite the relevant column for its teaching and identify your proposed application.
 
 **Example request.** Cheaper lumber increased our scrap. Which grade actually costs less per part?
 

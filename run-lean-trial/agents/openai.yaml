@@ -1,7 +1,7 @@
 interface:
   display_name: Sustain an improvement on the floor
   short_description: Sustain an improvement on the floor
-  default_prompt: Use $sepp-run-lean-trial to help me sustain an improvement on the
+  default_prompt: Use $run-lean-trial to help me sustain an improvement on the
     floor.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg

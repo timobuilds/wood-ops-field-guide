@@ -1,7 +1,7 @@
 interface:
   display_name: Recover usable material
   short_description: Help a team recover usable material
-  default_prompt: Use $sepp-improve-material-yield to help me recover usable material.
+  default_prompt: Use $improve-material-yield to help me recover usable material.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:

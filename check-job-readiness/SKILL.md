@@ -1,5 +1,5 @@
 ---
-name: sepp-check-job-readiness
+name: check-job-readiness
 description: "An order stops or restarts because required inputs are missing, late or incorrect. Use to release work that can finish."
 ---
 
@@ -11,19 +11,19 @@ description: "An order stops or restarts because required inputs are missing, la
 
 **Deliverable.** An order-level release checklist and an exception log with upstream owners.
 
-Turn the request into a draft objective in the user’s terms: “When [circumstance], help [person] achieve [observable progress] so [customer or business outcome].” Add a baseline, desired result, owner and review point if known. Mark proposed targets as proposals. When no baseline exists, specify the smallest observation needed to establish one. Continue with the evidence available.
+Name who needs progress, in what circumstance, and how they will measure it. Use the known baseline or identify the smallest observation that would establish one. Label proposed targets.
 
 ## Work through the decision
 
 1. Start at the interrupted operation. For one order verify five inputs: usable instructions, equipment and tools, material and components, a defined method, and available people with the skills to execute.
 
-2. Check specification, revision, quantity, sequence, time and point of use. Trace the first failed input to its origin. Ask the expediter what they chased; record the recurring cause separately from today’s workaround.
+2. Check specification, revision, quantity, sequence, time and point of use. Trace the first failed input to its origin. Ask the expediter what they chased. For a missing part, record its need-by time, actual route, handoff times and when it became usable at assembly. Verify whether it passed through the suspected machine before attributing delay there.
 
-3. Mark release, hold or explicitly authorized exception for the order. Name the check owner and evidence for release. Compare uninterrupted completions, restarts and complete shipments before and after the trial.
+3. Mark release, hold or explicitly authorized exception for the order. Start the exception log with the reported interruption. Record order or part, failed check, need-by and usable times, upstream owner and next check. Leave unavailable details open. Give a proposed owner by role when the actual owner is unknown. Compare uninterrupted completions, restarts and complete shipments before and after the trial.
 
 ## Return to the user
 
-Produce the deliverable above using the user's facts. Identify the decisive unknown and how to test it. Finish with the next action, proposed owner, review point and the observation that would justify a different decision. Clearly distinguish observed results, estimates and recommendations. Cite the specific column when explaining its teaching. The JTBD and deliverable are adaptations of Sepp Gmeiner’s writing.
+Fill in the deliverable with the evidence at hand. Mark estimates and unknowns. Name the next action, its proposed owner, the review point and the finding that could change the decision. Cite the relevant column for its teaching and identify your proposed application.
 
 **Example request.** Assembly is surrounded by parts but keeps stopping for one missing door.
 

@@ -1,7 +1,7 @@
 interface:
   display_name: Learn from a plant walk
   short_description: Help a team learn from a plant walk
-  default_prompt: Use $sepp-read-plant to help me learn from a plant walk.
+  default_prompt: Use $read-plant to help me learn from a plant walk.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:

@@ -1,7 +1,7 @@
 interface:
   display_name: Release work that can finish
   short_description: Release work that can finish
-  default_prompt: Use $sepp-check-job-readiness to help me release work that can finish.
+  default_prompt: Use $check-job-readiness to help me release work that can finish.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
